@@ -5,6 +5,6 @@ In this project, I analyzed different Warby Parker’s marketing funnels in orde
 There are three files:
   1) Powerpoint presentation - My analysis being communicated to the audience.
   2) The excel file - My detail analysis in tables and graphs forms.
-  3) The SQL file - My queries used in generating the data to be analyzed. The actual data used is not available. The SQL file is code used to create the queries. 
+  3) The SQL file - My queries used in generating the data to be analyzed. The actual data used is not available. The SQL file contains the programming code used to create the queries. 
   
  
