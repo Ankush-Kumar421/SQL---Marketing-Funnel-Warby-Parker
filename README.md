@@ -5,6 +5,6 @@ In this project, I analyzed different Warby Parker’s marketing funnels in orde
 There are three files:
   1) Powerpoint presentation - My analysis being communicated to the audience.
   2) The excel file - My detail analysis in tables and graphs forms.
-  3) The SQL file - My queries used in generating the data to be analyzed. The actual data used is not available. The SQL file contains the programming code used to create the queries. This file is .SQLite but can be saved as .sql and opened with Sublime Text. 
+  3) The SQL file - My queries used in generating the data to be analyzed. The actual data used is not available. The SQL file contains the programming code used to create the queries. Originally the queries were created using .SQLite format but I converted it to .sql format. This file can be opened using Sublime Text.
   
  
